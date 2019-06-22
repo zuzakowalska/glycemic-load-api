@@ -9,6 +9,11 @@ verify_ssl = true
 django = "*"
 pytest = "*"
 djangorestframework = "*"
+flake8 = "*"
+bandit = "*"
+mypy = "*"
+isort = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.7"
